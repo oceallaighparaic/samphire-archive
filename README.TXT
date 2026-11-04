@@ -1,3 +1,6 @@
+NOTE: This is not created by me. Below is the README that comes with Samphire, the education assembler used by CS1111 in UCC.
+- This is an archive, as the old download link is no longer working. I still had the original EXE to share with people.
+
 ====================================
 sms32v50 for Windows95/98/NT/2000/XP
 ====================================
